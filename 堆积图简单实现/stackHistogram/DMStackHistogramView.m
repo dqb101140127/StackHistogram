@@ -49,6 +49,7 @@
         _x_axis_h = 20;
         [self addSubview:self.stackCollectionView];
         [self addSubview:self.yCoordinateView];
+        
     }
     return self;
 }
